@@ -29,7 +29,7 @@ I am a professional web application developer. I have completed a hands on train
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahfuzrehman)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzrehman)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzrehman&show_icons=true&count_private=true)  
 
