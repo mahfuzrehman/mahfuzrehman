@@ -33,5 +33,4 @@ I am a professional web application developer. I have completed a hands on train
 ![GitHub metrics](https://metrics.lecoq.io/mahfuzrehman)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mahfuzrehman)  
-
-![Profile views](https://gpvc.arturio.dev/mahfuzrehman)  
+ 
