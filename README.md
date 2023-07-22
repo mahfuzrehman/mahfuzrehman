@@ -26,9 +26,4 @@ I am a professional web application developer. I have completed a hands on train
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahfuzrehman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahfuz-rehman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/samahfuz07)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzrehman&show_icons=true&count_private=true)   
-
 ![GitHub metrics](https://metrics.lecoq.io/mahfuzrehman)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mahfuzrehman)  
- 
